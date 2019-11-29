@@ -1,3 +1,3 @@
 # ComputerGraphics
 
-Computer graphics class in Hanyang University (2019-1)
+Computer graphics class (2019-1)
